@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rapid-react-driveteam",
+    "slug": "rapid-react-driveteam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rapid-react-driveteam"
+}
